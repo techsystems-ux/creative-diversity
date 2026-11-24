@@ -1,0 +1,1377 @@
+{
+  "slug": "demo-shampoo",
+  "name": "Demo · Everyday shampoo",
+  "category": "Hair care",
+  "currency": "INR",
+  "period": "Last 14 days",
+  "isDemo": true,
+  "note": "Made-up account used to show the logic. One studio template is copied 12 times with new backdrops.",
+  "ads": [
+    {
+      "id": "90000001000",
+      "name": "HELMET_Itchrelief_Studiostatic_v1",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 62000,
+        "impressions": 563608,
+        "reach": 243686,
+        "linkClicks": 4601,
+        "lpv": 3184,
+        "atc": 328,
+        "purchases": 122,
+        "revenue": 97482
+      },
+      "audience": {
+        "newPct": 0.78,
+        "engagedPct": 0.1,
+        "existingPct": 0.13
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, mint backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 72,
+        "product": 91,
+        "message": 75
+      },
+      "mock": {
+        "bg": "#BFE6D4",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v1"
+      }
+    },
+    {
+      "id": "90000001001",
+      "name": "HELMET_Itchrelief_Studiostatic_v2",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 54000,
+        "impressions": 281726,
+        "reach": 179878,
+        "linkClicks": 2483,
+        "lpv": 1965,
+        "atc": 199,
+        "purchases": 58,
+        "revenue": 51280
+      },
+      "audience": {
+        "newPct": 0.69,
+        "engagedPct": 0.17,
+        "existingPct": 0.14
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, blue backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 84,
+        "product": 82,
+        "message": 69
+      },
+      "mock": {
+        "bg": "#BFD3F2",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v2"
+      }
+    },
+    {
+      "id": "90000001002",
+      "name": "HELMET_Itchrelief_Studiostatic_v3",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 41000,
+        "impressions": 202652,
+        "reach": 98501,
+        "linkClicks": 2204,
+        "lpv": 1687,
+        "atc": 192,
+        "purchases": 83,
+        "revenue": 67175
+      },
+      "audience": {
+        "newPct": 0.65,
+        "engagedPct": 0.22,
+        "existingPct": 0.13
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, lilac backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 63,
+        "product": 82,
+        "message": 59
+      },
+      "mock": {
+        "bg": "#D9CDEF",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v3"
+      }
+    },
+    {
+      "id": "90000001003",
+      "name": "HELMET_Itchrelief_Studiostatic_v4",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 30000,
+        "impressions": 196275,
+        "reach": 120832,
+        "linkClicks": 2575,
+        "lpv": 1961,
+        "atc": 202,
+        "purchases": 87,
+        "revenue": 63864
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, peach backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 60,
+        "product": 89,
+        "message": 69
+      },
+      "mock": {
+        "bg": "#F6D3C0",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v4"
+      }
+    },
+    {
+      "id": "90000001004",
+      "name": "HELMET_Itchrelief_Studiostatic_v5",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 22000,
+        "impressions": 144600,
+        "reach": 95619,
+        "linkClicks": 1866,
+        "lpv": 1233,
+        "atc": 100,
+        "purchases": 34,
+        "revenue": 29902
+      },
+      "audience": {
+        "newPct": 0.83,
+        "engagedPct": 0.07,
+        "existingPct": 0.1
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, grey backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 55,
+        "product": 86,
+        "message": 58
+      },
+      "mock": {
+        "bg": "#D5D7DB",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v5"
+      }
+    },
+    {
+      "id": "90000001005",
+      "name": "HELMET_Itchrelief_Studiostatic_v6",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 16000,
+        "impressions": 109256,
+        "reach": 61854,
+        "linkClicks": 928,
+        "lpv": 702,
+        "atc": 67,
+        "purchases": 21,
+        "revenue": 19689
+      },
+      "audience": {
+        "newPct": 0.69,
+        "engagedPct": 0.18,
+        "existingPct": 0.14
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, teal backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 76,
+        "product": 90,
+        "message": 69
+      },
+      "mock": {
+        "bg": "#B6DEDC",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v6"
+      }
+    },
+    {
+      "id": "90000001006",
+      "name": "HELMET_Itchrelief_Studiostatic_v7",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 12000,
+        "impressions": 74769,
+        "reach": 36333,
+        "linkClicks": 982,
+        "lpv": 716,
+        "atc": 73,
+        "purchases": 24,
+        "revenue": 20660
+      },
+      "audience": {
+        "newPct": 0.66,
+        "engagedPct": 0.26,
+        "existingPct": 0.08
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, sand backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 65,
+        "product": 93,
+        "message": 86
+      },
+      "mock": {
+        "bg": "#EADFC8",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v7"
+      }
+    },
+    {
+      "id": "90000001007",
+      "name": "HELMET_Itchrelief_Studiostatic_v8",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 9000,
+        "impressions": 74314,
+        "reach": 33762,
+        "linkClicks": 486,
+        "lpv": 355,
+        "atc": 24,
+        "purchases": 7,
+        "revenue": 6714
+      },
+      "audience": {
+        "newPct": 0.62,
+        "engagedPct": 0.27,
+        "existingPct": 0.11
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, black backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 54,
+        "product": 87,
+        "message": 73
+      },
+      "mock": {
+        "bg": "#1B1C1F",
+        "fg": "#F4F3EF",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v8"
+      }
+    },
+    {
+      "id": "90000001008",
+      "name": "HELMET_Itchrelief_Studiostatic_v9",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 7000,
+        "impressions": 56552,
+        "reach": 24438,
+        "linkClicks": 719,
+        "lpv": 595,
+        "atc": 67,
+        "purchases": 29,
+        "revenue": 26177
+      },
+      "audience": {
+        "newPct": 0.63,
+        "engagedPct": 0.32,
+        "existingPct": 0.05
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, white backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 59,
+        "product": 81,
+        "message": 45
+      },
+      "mock": {
+        "bg": "#F4F3EF",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v9"
+      }
+    },
+    {
+      "id": "90000001009",
+      "name": "HELMET_Itchrelief_Studiostatic_v10",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 5000,
+        "impressions": 29123,
+        "reach": 18734,
+        "linkClicks": 338,
+        "lpv": 253,
+        "atc": 25,
+        "purchases": 8,
+        "revenue": 7454
+      },
+      "audience": {
+        "newPct": 0.62,
+        "engagedPct": 0.29,
+        "existingPct": 0.09
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, yellow backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 87,
+        "product": 82,
+        "message": 68
+      },
+      "mock": {
+        "bg": "#F4E3A1",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v10"
+      }
+    },
+    {
+      "id": "90000001010",
+      "name": "HELMET_Itchrelief_Studiostatic_v11",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 3500,
+        "impressions": 31733,
+        "reach": 13771,
+        "linkClicks": 343,
+        "lpv": 286,
+        "atc": 17,
+        "purchases": 7,
+        "revenue": 5356
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, rose backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 91,
+        "product": 89,
+        "message": 77
+      },
+      "mock": {
+        "bg": "#F2CBD3",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v11"
+      }
+    },
+    {
+      "id": "90000001011",
+      "name": "HELMET_Itchrelief_Studiostatic_v12",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "No more helmet itch",
+      "metrics": {
+        "spend": 2500,
+        "impressions": 18298,
+        "reach": 11843,
+        "linkClicks": 138,
+        "lpv": 105,
+        "atc": 7,
+        "purchases": 3,
+        "revenue": 2665
+      },
+      "audience": {
+        "newPct": 0.76,
+        "engagedPct": 0.14,
+        "existingPct": 0.1
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Studio static",
+        "visualWorld": "Studio, olive backdrop",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "No person",
+        "emotion": "Relief"
+      },
+      "clarity": {
+        "visual": 49,
+        "product": 82,
+        "message": 88
+      },
+      "mock": {
+        "bg": "#D2D7B5",
+        "fg": "#1A1A1A",
+        "headline": "No more helmet itch",
+        "sub": "Itch-free scalp · v12"
+      }
+    },
+    {
+      "id": "90000001012",
+      "name": "HELMET_Itchrelief_TalkingheadUGC_v13",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Three hours in a helmet. No itch.",
+      "metrics": {
+        "spend": 38000,
+        "impressions": 308752,
+        "reach": 150124,
+        "linkClicks": 2948,
+        "lpv": 2437,
+        "atc": 413,
+        "purchases": 185,
+        "revenue": 175571,
+        "plays3s": 102807,
+        "thruplays": 24049
+      },
+      "audience": {
+        "newPct": 0.62,
+        "engagedPct": 0.25,
+        "existingPct": 0.12
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Talking-head UGC",
+        "visualWorld": "Office parking, after the ride",
+        "hook": "Problem in action",
+        "awareness": "Problem-aware",
+        "talent": "Customer"
+      },
+      "clarity": {
+        "visual": 87,
+        "product": 63,
+        "message": 56
+      },
+      "mock": {
+        "bg": "#1E2A3A",
+        "fg": "#F5F1E8",
+        "headline": "Three hours in a helmet. No itch.",
+        "sub": "Talking-head UGC"
+      }
+    },
+    {
+      "id": "90000001013",
+      "name": "HELMET_Helmethairsmell_Problemsolutionskit_v14",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Everyone stepped back in the lift",
+      "metrics": {
+        "spend": 21000,
+        "impressions": 139546,
+        "reach": 61320,
+        "linkClicks": 1633,
+        "lpv": 1264,
+        "atc": 177,
+        "purchases": 60,
+        "revenue": 53643,
+        "plays3s": 36917,
+        "thruplays": 7004
+      },
+      "audience": {
+        "newPct": 0.64,
+        "engagedPct": 0.21,
+        "existingPct": 0.15
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Helmet-hair smell",
+        "format": "Problem–solution skit",
+        "visualWorld": "Crowded lift",
+        "hook": "Problem in action",
+        "awareness": "Problem-aware",
+        "talent": "Creator"
+      },
+      "clarity": {
+        "visual": 92,
+        "product": 73,
+        "message": 86
+      },
+      "mock": {
+        "bg": "#1E2A3A",
+        "fg": "#F5F1E8",
+        "headline": "Everyone stepped back in the lift",
+        "sub": "Problem–solution skit"
+      }
+    },
+    {
+      "id": "90000001014",
+      "name": "HELMET_Coolingfeel_Productdemo_v15",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "A cool scalp under a hot helmet",
+      "metrics": {
+        "spend": 14000,
+        "impressions": 69365,
+        "reach": 45650,
+        "linkClicks": 679,
+        "lpv": 509,
+        "atc": 66,
+        "purchases": 27,
+        "revenue": 25569,
+        "plays3s": 19173,
+        "thruplays": 3594
+      },
+      "audience": {
+        "newPct": 0.68,
+        "engagedPct": 0.25,
+        "existingPct": 0.07
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Cooling feel",
+        "format": "Product demo",
+        "visualWorld": "Lather close-up, midday traffic",
+        "hook": "Result first",
+        "awareness": "Solution-aware",
+        "talent": "Creator"
+      },
+      "clarity": {
+        "visual": 77,
+        "product": 68,
+        "message": 71
+      },
+      "mock": {
+        "bg": "#1E2A3A",
+        "fg": "#F5F1E8",
+        "headline": "A cool scalp under a hot helmet",
+        "sub": "Product demo"
+      }
+    },
+    {
+      "id": "90000001015",
+      "name": "HAIR-FALL_Fewerstrands_Beforeandafter_v16",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Hair-fall worrier",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Count the strands. Then again in 4 weeks.",
+      "metrics": {
+        "spend": 26000,
+        "impressions": 161818,
+        "reach": 75869,
+        "linkClicks": 2367,
+        "lpv": 1551,
+        "atc": 150,
+        "purchases": 56,
+        "revenue": 43045
+      },
+      "audience": {
+        "newPct": 0.77,
+        "engagedPct": 0.15,
+        "existingPct": 0.08
+      },
+      "tags": {
+        "persona": "Hair-fall worrier",
+        "angle": "Fewer strands",
+        "format": "Before and after",
+        "visualWorld": "Comb on a bathroom shelf",
+        "hook": "Result first",
+        "awareness": "Problem-aware",
+        "talent": "Customer"
+      },
+      "clarity": {
+        "visual": 58,
+        "product": 75,
+        "message": 65
+      },
+      "mock": {
+        "bg": "#F3E6D8",
+        "fg": "#3A2418",
+        "headline": "Count the strands. Then again in 4 weeks.",
+        "sub": "Before and after"
+      }
+    },
+    {
+      "id": "90000001016",
+      "name": "HAIR-FALL_Whatsinside_Listiclecarousel_v17",
+      "mediaType": "Carousel",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Hair-fall worrier",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "3 ingredients that matter for hair fall",
+      "metrics": {
+        "spend": 9000,
+        "impressions": 76575,
+        "reach": 35613,
+        "linkClicks": 1482,
+        "lpv": 1233,
+        "atc": 184,
+        "purchases": 82,
+        "revenue": 59536
+      },
+      "audience": {
+        "newPct": 0.78,
+        "engagedPct": 0.11,
+        "existingPct": 0.11
+      },
+      "tags": {
+        "persona": "Hair-fall worrier",
+        "angle": "What's inside",
+        "format": "Listicle carousel",
+        "visualWorld": "Plain ingredient cards",
+        "hook": "Question",
+        "awareness": "Solution-aware",
+        "talent": "No person"
+      },
+      "clarity": {
+        "visual": 80,
+        "product": 85,
+        "message": 47
+      },
+      "mock": {
+        "bg": "#F3E6D8",
+        "fg": "#3A2418",
+        "headline": "3 ingredients that matter for hair fall",
+        "sub": "Listicle carousel"
+      }
+    },
+    {
+      "id": "90000001017",
+      "name": "HAIR-FALL_Howitsmade_Founderstory_v18",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Hair-fall worrier",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Why we left out the harsh stuff",
+      "metrics": {
+        "spend": 6000,
+        "impressions": 48545,
+        "reach": 34967,
+        "linkClicks": 358,
+        "lpv": 233,
+        "atc": 25,
+        "purchases": 11,
+        "revenue": 8427,
+        "plays3s": 10036,
+        "thruplays": 1911
+      },
+      "tags": {
+        "persona": "Hair-fall worrier",
+        "angle": "How it's made",
+        "format": "Founder story",
+        "visualWorld": "Lab bench",
+        "hook": "Bold claim",
+        "awareness": "Product-aware",
+        "talent": "Founder"
+      },
+      "clarity": {
+        "visual": 78,
+        "product": 56,
+        "message": 66
+      },
+      "mock": {
+        "bg": "#F3E6D8",
+        "fg": "#3A2418",
+        "headline": "Why we left out the harsh stuff",
+        "sub": "Founder story"
+      }
+    },
+    {
+      "id": "90000001018",
+      "name": "DANDRUFF_Blackshirttest_Studiostatic_v19",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Dandruff sufferer",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "A black shirt. Not one flake.",
+      "metrics": {
+        "spend": 17000,
+        "impressions": 81186,
+        "reach": 46001,
+        "linkClicks": 1365,
+        "lpv": 996,
+        "atc": 119,
+        "purchases": 35,
+        "revenue": 27133
+      },
+      "audience": {
+        "newPct": 0.79,
+        "engagedPct": 0.06,
+        "existingPct": 0.15
+      },
+      "tags": {
+        "persona": "Dandruff sufferer",
+        "angle": "Black shirt test",
+        "format": "Studio static",
+        "visualWorld": "Black shirt on a hanger",
+        "hook": "Result first",
+        "awareness": "Problem-aware",
+        "talent": "No person"
+      },
+      "clarity": {
+        "visual": 55,
+        "product": 95,
+        "message": 69
+      },
+      "mock": {
+        "bg": "#111418",
+        "fg": "#E9F0F7",
+        "headline": "A black shirt. Not one flake.",
+        "sub": "Studio static"
+      }
+    },
+    {
+      "id": "90000001019",
+      "name": "DANDRUFF_Theawkwardmoment_Streetinterview_v20",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Dandruff sufferer",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Your most embarrassing hair moment?",
+      "metrics": {
+        "spend": 8000,
+        "impressions": 65458,
+        "reach": 42751,
+        "linkClicks": 654,
+        "lpv": 435,
+        "atc": 45,
+        "purchases": 18,
+        "revenue": 15362,
+        "plays3s": 18075,
+        "thruplays": 6304
+      },
+      "audience": {
+        "newPct": 0.57,
+        "engagedPct": 0.34,
+        "existingPct": 0.09
+      },
+      "tags": {
+        "persona": "Dandruff sufferer",
+        "angle": "The awkward moment",
+        "format": "Street interview",
+        "visualWorld": "College campus",
+        "hook": "Question",
+        "awareness": "Unaware",
+        "talent": "Public"
+      },
+      "clarity": {
+        "visual": 62,
+        "product": 45,
+        "message": 45
+      },
+      "mock": {
+        "bg": "#111418",
+        "fg": "#E9F0F7",
+        "headline": "Your most embarrassing hair moment?",
+        "sub": "Street interview"
+      }
+    },
+    {
+      "id": "90000001020",
+      "name": "DANDRUFF_Vstheusualbottle_Comparisonstatic_v21",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Dandruff sufferer",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Your bottle vs ours",
+      "metrics": {
+        "spend": 11000,
+        "impressions": 72681,
+        "reach": 51897,
+        "linkClicks": 1119,
+        "lpv": 901,
+        "atc": 112,
+        "purchases": 40,
+        "revenue": 37007
+      },
+      "audience": {
+        "newPct": 0.49,
+        "engagedPct": 0.38,
+        "existingPct": 0.13
+      },
+      "tags": {
+        "persona": "Dandruff sufferer",
+        "angle": "Vs the usual bottle",
+        "format": "Comparison static",
+        "visualWorld": "Two bottles side by side",
+        "hook": "Bold claim",
+        "awareness": "Product-aware",
+        "talent": "No person"
+      },
+      "clarity": {
+        "visual": 77,
+        "product": 71,
+        "message": 61
+      },
+      "mock": {
+        "bg": "#111418",
+        "fg": "#E9F0F7",
+        "headline": "Your bottle vs ours",
+        "sub": "Comparison static"
+      }
+    },
+    {
+      "id": "90000001021",
+      "name": "DAILY_Gentleenoughdaily_Reviewscreenshots_v22",
+      "mediaType": "Static",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Daily gym-goer",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "What daily washers say",
+      "metrics": {
+        "spend": 7000,
+        "impressions": 46450,
+        "reach": 25153,
+        "linkClicks": 631,
+        "lpv": 501,
+        "atc": 66,
+        "purchases": 26,
+        "revenue": 23269
+      },
+      "audience": {
+        "newPct": 0.47,
+        "engagedPct": 0.39,
+        "existingPct": 0.13
+      },
+      "tags": {
+        "persona": "Daily gym-goer",
+        "angle": "Gentle enough daily",
+        "format": "Review screenshots",
+        "visualWorld": "Review cards",
+        "hook": "Social proof",
+        "awareness": "Product-aware",
+        "talent": "Customer"
+      },
+      "clarity": {
+        "visual": 91,
+        "product": 65,
+        "message": 68
+      },
+      "mock": {
+        "bg": "#D9F0E4",
+        "fg": "#12382A",
+        "headline": "What daily washers say",
+        "sub": "Review screenshots"
+      }
+    },
+    {
+      "id": "90000001022",
+      "name": "DAILY_Gymtooffice_Lofinative_v23",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Daily gym-goer",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "POV: gym shower, good hair",
+      "metrics": {
+        "spend": 12000,
+        "impressions": 58331,
+        "reach": 24585,
+        "linkClicks": 477,
+        "lpv": 343,
+        "atc": 48,
+        "purchases": 19,
+        "revenue": 17046,
+        "plays3s": 21643,
+        "thruplays": 6653
+      },
+      "audience": {
+        "newPct": 0.61,
+        "engagedPct": 0.31,
+        "existingPct": 0.07
+      },
+      "tags": {
+        "persona": "Daily gym-goer",
+        "angle": "Gym to office",
+        "format": "Lo-fi native",
+        "visualWorld": "Gym mirror",
+        "hook": "Relatable POV",
+        "awareness": "Unaware",
+        "talent": "Creator"
+      },
+      "clarity": {
+        "visual": 83,
+        "product": 50,
+        "message": 88
+      },
+      "mock": {
+        "bg": "#D9F0E4",
+        "fg": "#12382A",
+        "headline": "POV: gym shower, good hair",
+        "sub": "Lo-fi native"
+      }
+    },
+    {
+      "id": "90000001023",
+      "name": "DAILY_Gymbagessential_Unboxing_v24",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Daily gym-goer",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "The bottle that lives in my gym bag",
+      "metrics": {
+        "spend": 4000,
+        "impressions": 21051,
+        "reach": 10532,
+        "linkClicks": 304,
+        "lpv": 225,
+        "atc": 36,
+        "purchases": 14,
+        "revenue": 13016,
+        "plays3s": 4928,
+        "thruplays": 1416
+      },
+      "audience": {
+        "newPct": 0.68,
+        "engagedPct": 0.23,
+        "existingPct": 0.09
+      },
+      "tags": {
+        "persona": "Daily gym-goer",
+        "angle": "Gym-bag essential",
+        "format": "Unboxing",
+        "visualWorld": "Gym bag on a bench",
+        "hook": "Result first",
+        "awareness": "Solution-aware",
+        "talent": "Creator"
+      },
+      "clarity": {
+        "visual": 56,
+        "product": 72,
+        "message": 56
+      },
+      "mock": {
+        "bg": "#D9F0E4",
+        "fg": "#12382A",
+        "headline": "The bottle that lives in my gym bag",
+        "sub": "Unboxing"
+      }
+    },
+    {
+      "id": "90000001024",
+      "name": "HELMET_Itchrelief_TalkingheadUGC_v25",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Itchy after your ride?",
+      "metrics": {
+        "spend": 9000,
+        "impressions": 45026,
+        "reach": 20427,
+        "linkClicks": 623,
+        "lpv": 514,
+        "atc": 42,
+        "purchases": 14,
+        "revenue": 13174,
+        "plays3s": 8117,
+        "thruplays": 1432
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Talking-head UGC",
+        "visualWorld": "Office parking, after the ride",
+        "hook": "Question",
+        "awareness": "Problem-aware",
+        "talent": "Customer"
+      },
+      "clarity": {
+        "visual": 65,
+        "product": 46,
+        "message": 78
+      },
+      "mock": {
+        "bg": "#1E2A3A",
+        "fg": "#F5F1E8",
+        "headline": "Itchy after your ride?",
+        "sub": "Hook test"
+      }
+    },
+    {
+      "id": "90000001025",
+      "name": "HELMET_Itchrelief_TalkingheadUGC_v26",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Zero itch by 6pm",
+      "metrics": {
+        "spend": 6000,
+        "impressions": 30032,
+        "reach": 20152,
+        "linkClicks": 464,
+        "lpv": 367,
+        "atc": 30,
+        "purchases": 9,
+        "revenue": 7833,
+        "plays3s": 5501,
+        "thruplays": 1718
+      },
+      "audience": {
+        "newPct": 0.73,
+        "engagedPct": 0.15,
+        "existingPct": 0.13
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Talking-head UGC",
+        "visualWorld": "Office parking, after the ride",
+        "hook": "Bold claim",
+        "awareness": "Problem-aware",
+        "talent": "Customer"
+      },
+      "clarity": {
+        "visual": 54,
+        "product": 60,
+        "message": 79
+      },
+      "mock": {
+        "bg": "#1E2A3A",
+        "fg": "#F5F1E8",
+        "headline": "Zero itch by 6pm",
+        "sub": "Hook test"
+      }
+    },
+    {
+      "id": "90000001026",
+      "name": "HELMET_Itchrelief_TalkingheadUGC_v27",
+      "mediaType": "Video",
+      "campaign": "DEMO | Prospecting // Advantage+",
+      "adset": "Broad // Helmet commuter",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "10,000 riders switched",
+      "metrics": {
+        "spend": 3000,
+        "impressions": 14598,
+        "reach": 7673,
+        "linkClicks": 238,
+        "lpv": 188,
+        "atc": 27,
+        "purchases": 10,
+        "revenue": 7441,
+        "plays3s": 2760,
+        "thruplays": 753
+      },
+      "audience": {
+        "newPct": 0.62,
+        "engagedPct": 0.27,
+        "existingPct": 0.11
+      },
+      "tags": {
+        "persona": "Helmet commuter",
+        "angle": "Itch relief",
+        "format": "Talking-head UGC",
+        "visualWorld": "Office parking, after the ride",
+        "hook": "Social proof",
+        "awareness": "Problem-aware",
+        "talent": "Customer"
+      },
+      "clarity": {
+        "visual": 59,
+        "product": 55,
+        "message": 74
+      },
+      "mock": {
+        "bg": "#1E2A3A",
+        "fg": "#F5F1E8",
+        "headline": "10,000 riders switched",
+        "sub": "Hook test"
+      }
+    },
+    {
+      "id": "90000001027",
+      "name": "EXISTING_Offer_Studiostatic_v28",
+      "mediaType": "Static",
+      "campaign": "DEMO | Retargeting // Existing",
+      "adset": "RT // All engagers 30d",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Buy 2, get 1 free",
+      "metrics": {
+        "spend": 19000,
+        "impressions": 109859,
+        "reach": 38543,
+        "linkClicks": 1677,
+        "lpv": 1108,
+        "atc": 132,
+        "purchases": 46,
+        "revenue": 41863
+      },
+      "audience": {
+        "newPct": 0.25,
+        "engagedPct": 0.27,
+        "existingPct": 0.48
+      },
+      "tags": {
+        "persona": "Existing customers",
+        "angle": "Offer",
+        "format": "Studio static",
+        "visualWorld": "Studio, white backdrop",
+        "hook": "Offer first",
+        "awareness": "Most-aware",
+        "talent": "No person",
+        "offer": "B2G1"
+      },
+      "clarity": {
+        "visual": 77,
+        "product": 93,
+        "message": 50
+      },
+      "mock": {
+        "bg": "#F4F3EF",
+        "fg": "#1A1A1A",
+        "headline": "Buy 2, get 1 free",
+        "sub": "Studio static"
+      }
+    },
+    {
+      "id": "90000001028",
+      "name": "EXISTING_Refillreminder_Lofinative_v29",
+      "mediaType": "Video",
+      "campaign": "DEMO | Retargeting // Existing",
+      "adset": "RT // All engagers 30d",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Running low? Refill now",
+      "metrics": {
+        "spend": 8000,
+        "impressions": 39614,
+        "reach": 15232,
+        "linkClicks": 545,
+        "lpv": 449,
+        "atc": 71,
+        "purchases": 29,
+        "revenue": 27198,
+        "plays3s": 13930,
+        "thruplays": 2620
+      },
+      "audience": {
+        "newPct": 0.25,
+        "engagedPct": 0.27,
+        "existingPct": 0.48
+      },
+      "tags": {
+        "persona": "Existing customers",
+        "angle": "Refill reminder",
+        "format": "Lo-fi native",
+        "visualWorld": "Bathroom shelf",
+        "hook": "Relatable POV",
+        "awareness": "Most-aware",
+        "talent": "No person"
+      },
+      "clarity": {
+        "visual": 80,
+        "product": 52,
+        "message": 51
+      },
+      "mock": {
+        "bg": "#ECE9E1",
+        "fg": "#1A1A1A",
+        "headline": "Running low? Refill now",
+        "sub": "Lo-fi native"
+      }
+    },
+    {
+      "id": "90000001029",
+      "name": "EXISTING_Offer_Studiostatic_v30",
+      "mediaType": "Static",
+      "campaign": "DEMO | Retargeting // Engaged",
+      "adset": "RT // All engagers 30d",
+      "status": "Active",
+      "cta": "Shop now",
+      "headline": "Last day: 20% off",
+      "metrics": {
+        "spend": 15000,
+        "impressions": 73219,
+        "reach": 19453,
+        "linkClicks": 521,
+        "lpv": 366,
+        "atc": 46,
+        "purchases": 20,
+        "revenue": 18992
+      },
+      "audience": {
+        "newPct": 0.32,
+        "engagedPct": 0.61,
+        "existingPct": 0.07
+      },
+      "tags": {
+        "persona": "Existing customers",
+        "angle": "Offer",
+        "format": "Studio static",
+        "visualWorld": "Studio, yellow backdrop",
+        "hook": "Offer first",
+        "awareness": "Most-aware",
+        "talent": "No person",
+        "offer": "20% off"
+      },
+      "clarity": {
+        "visual": 49,
+        "product": 88,
+        "message": 71
+      },
+      "mock": {
+        "bg": "#F4E3A1",
+        "fg": "#1A1A1A",
+        "headline": "Last day: 20% off",
+        "sub": "Studio static"
+      }
+    }
+  ]
+}
